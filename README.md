@@ -57,7 +57,8 @@ This project is an interactive Excel dashboard designed to analyze hospital emer
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+<img width="1743" height="726" alt="Screenshot 2026-04-19 141029" src="https://github.com/user-attachments/assets/e4c7a212-21e0-4028-9392-3b442a7de619" />
+
 
 ---
 
